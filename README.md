@@ -16,7 +16,7 @@ On my first day I made a JavaScript Drum Kit. Forked a respiratory to work on 30
 * Day 20 to 25 Make a discord bot using Node.js that sends HTTP requests to server.Simple Weather Bot
 * Day 20 to 30 Work on a website where we focus most using React + Redux and try to make a simple E-commerce website
 * Additionally if I finish all of them before time month finishes learn SASS and LESS + Basics of AWS and touch the basics of Databases.
-
+* Try to contirbute on open-source projects
 <br />
 
 # Goals for next October 
