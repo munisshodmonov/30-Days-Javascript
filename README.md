@@ -5,6 +5,13 @@
 On my first day I made a JavaScript Drum Kit. Forked a respiratory to work on 30 different projects each day!
 
 
+### Day 2 
+
+Second day into my journey and I made a clock. Also discovered some topics like:
+
+* Hoisting, Lexical Environment/Scope, Function Invocation, How does Global Execution Object works. 
+
+
 <br />
 
 # What topics am I going to focus the most for the next 30 days and build projects using them?
