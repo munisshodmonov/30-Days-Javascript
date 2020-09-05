@@ -1,17 +1,5 @@
 # 30-Days-Javascript
 * Challanging myself to work on my JavaScript skills everyday to work hard and get better at it. Hopefully by the end of my 30 day journey I will gain more knowledge then I did on my first day~
-### Day 1 
-<br />
-On my first day I made a JavaScript Drum Kit. Forked a respiratory to work on 30 different projects each day!
-
-
-### Day 2 
-
-Second day into my journey and I made a clock. Also discovered some topics like:
-
-* Hoisting, Lexical Environment/Scope, Function Invocation, How does Global Execution Object works. 
-
-
 <br />
 
 # What topics am I going to focus the most for the next 30 days and build projects using them?
