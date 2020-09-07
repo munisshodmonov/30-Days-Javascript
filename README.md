@@ -16,5 +16,5 @@
 
 # Goals for next October 
 
-* Cover these topics: AWS(basics-intermidiate), MongoDB(basics-intermidiate), SQL(basics-intermidiate), GCP(basics), Azure (basics)
+* Cover these topics: AWS(basics-intermidiate topics), MongoDB(basics-intermidiate topics), SQL(basics-intermidiate topics), GCP(basics topics), Azure (basics topics)
 * Going to update on October more when September is going to end!
